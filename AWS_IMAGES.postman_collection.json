@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "15c2ae79-4ccc-40ef-acc9-288494b8d381",
+		"name": "AWS_IMAGES",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25449739"
+	},
+	"item": [
+		{
+			"name": "Upload Image",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "List of Images",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Download Image",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Image",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
